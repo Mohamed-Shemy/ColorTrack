@@ -1,0 +1,19 @@
+D:\Programes\Mohamed Desing\C#\ColorTrack\ColorTrack\bin\Debug\ColorTrack.exe.config
+D:\Programes\Mohamed Desing\C#\ColorTrack\ColorTrack\bin\Debug\ColorTrack.exe
+D:\Programes\Mohamed Desing\C#\ColorTrack\ColorTrack\bin\Debug\ColorTrack.pdb
+D:\Programes\Mohamed Desing\C#\ColorTrack\ColorTrack\obj\Debug\ColorTrack.csprojResolveAssemblyReference.cache
+D:\Programes\Mohamed Desing\C#\ColorTrack\ColorTrack\obj\Debug\ColorTrack.Form1.resources
+D:\Programes\Mohamed Desing\C#\ColorTrack\ColorTrack\obj\Debug\ColorTrack.Properties.Resources.resources
+D:\Programes\Mohamed Desing\C#\ColorTrack\ColorTrack\obj\Debug\ColorTrack.csproj.GenerateResource.Cache
+D:\Programes\Mohamed Desing\C#\ColorTrack\ColorTrack\obj\Debug\ColorTrack.exe
+D:\Programes\Mohamed Desing\C#\ColorTrack\ColorTrack\obj\Debug\ColorTrack.pdb
+F:\Codeing\C#\ColorTrack\ColorTrack\bin\Debug\ColorTrack.exe.config
+F:\Codeing\C#\ColorTrack\ColorTrack\bin\Debug\ColorTrack.exe
+F:\Codeing\C#\ColorTrack\ColorTrack\bin\Debug\ColorTrack.pdb
+F:\Codeing\C#\ColorTrack\ColorTrack\obj\Debug\ColorTrack.csprojAssemblyReference.cache
+F:\Codeing\C#\ColorTrack\ColorTrack\obj\Debug\ColorTrack.Form1.resources
+F:\Codeing\C#\ColorTrack\ColorTrack\obj\Debug\ColorTrack.Properties.Resources.resources
+F:\Codeing\C#\ColorTrack\ColorTrack\obj\Debug\ColorTrack.csproj.GenerateResource.cache
+F:\Codeing\C#\ColorTrack\ColorTrack\obj\Debug\ColorTrack.csproj.CoreCompileInputs.cache
+F:\Codeing\C#\ColorTrack\ColorTrack\obj\Debug\ColorTrack.exe
+F:\Codeing\C#\ColorTrack\ColorTrack\obj\Debug\ColorTrack.pdb
